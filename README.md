@@ -16,7 +16,7 @@ MongoDB - The Complete Developer's Guide 2023 | Maximilian Schwarzmüller
 
 1 - Clone the repository:
 ```console
-git clone https://github.com/VitorSoer/typescript
+git clone https://github.com/VitorSoer/mongodb
 ```
 
 2 - Access the project directory using the command line:
