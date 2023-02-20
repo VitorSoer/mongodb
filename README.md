@@ -8,7 +8,7 @@
 
 The repository contains some coding exercises and small projects used for practice.
 
-- [Course 01:](https://github.com/VitorSoer/typescript/tree/main/src/course-01)
+- [Course 01:](https://github.com/VitorSoer/mongodb/tree/main/src/course-01)
 MongoDB - The Complete Developer's Guide 2023 | Maximilian Schwarzmüller
 
 ## Instructions:
