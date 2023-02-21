@@ -1,4 +1,4 @@
-1 - Insert 3 patient records with at least 1 history per patient
+1 - Insert 3 patient records with at least 1 history per patient:
 
 ```console
 use hospital
@@ -40,7 +40,7 @@ db.patients.insertMany([
 ])
 ```
 
-2 - Update patient data of 1 patient with new age, name and history entry
+2 - Update patient data of 1 patient with new age, name and history entry:
 
 ```console
 db.patients.updateOne(
