@@ -4,7 +4,7 @@
 use embeddedDB
 ```
 
-2 - Create a collection and insert the documents:
+2 - Create a collection and insert documents:
 
 ```console
 db.guests.insertMany([
