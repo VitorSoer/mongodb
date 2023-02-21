@@ -1,4 +1,4 @@
-1 - Create and switch to the database:
+1 - Create and switch to database:
 
 ```console
 use flights
