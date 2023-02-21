@@ -13,7 +13,7 @@ show dbs
 use fictionalDB
 ```
 
-4 - Show actual database:
+4 - Show current database:
 ```console
 db
 ```
